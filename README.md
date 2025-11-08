@@ -30,7 +30,7 @@
 - Брокеры Сообщений
   - SNS
     - Обшее описание
-    - [Fanout паттерн] (sns-fanout.md)
+    - [Fanout паттерн](sns-fanout.md)
   - SQS
     - [Настройки очереди](sqs-params.md) 
 
