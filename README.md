@@ -27,7 +27,8 @@
 - Определение Lambda-функций  
 - Добавление API Gateway  
 - Интеграция с DynamoDB, S3, SNS, SQS
--   (template-funcs.md) [Брокеры Сообщений](sqs-params.md)
+- [Брокеры Сообщений](sqs-params.md)
+  - Test
 
 ### Глава 6. Безопасность и IAM
 - Минимизация прав Lambda  
