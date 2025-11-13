@@ -33,6 +33,7 @@
     - [Fanout паттерн](sns-fanout.md)
   - SQS
     - [Настройки очереди](sqs-params.md)
+    - DLQ (Dead Letter Que)
   - Event Bridge
     - Назначение
     - Конфигурация
