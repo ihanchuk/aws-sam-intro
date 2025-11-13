@@ -32,6 +32,7 @@
     - Обшее описание
     - [Fanout паттерн](sns-fanout.md)
   - SQS
+    - Общее описание
     - [Настройки очереди](sqs-params.md)
     - DLQ (Dead Letter Que)
   - Event Bridge
