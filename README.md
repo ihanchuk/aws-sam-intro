@@ -40,7 +40,7 @@
     - Конфигурация
     - Сравнение с SQS и SNS
     - Примеры
-      - [Custome Event](aws-eb-custom-event.md)  
+      - [Custom Events example](aws-eb-custom-event.md)  
 
 ### Глава 6. Безопасность и IAM
 - Минимизация прав Lambda  
