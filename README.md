@@ -29,6 +29,7 @@
   - Слои
   - Контейнеры
     - Специфика контейнеризированной Лямбды
+    - RIC vs RIE
     - [Пример](lambda-container-example.md)    
 - Добавление API Gateway  
 - Интеграция с DynamoDB, S3, SNS, SQS
