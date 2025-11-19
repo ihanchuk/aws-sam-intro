@@ -27,7 +27,7 @@
 - Определение Lambda-функций
   - Общие принципы работ Лямбд
   - [Жизненный цикл](lambda-lifecycle.md)
-  - [Контекст выполнения] (Execution context)(lambda-execution-context.md)
+  - [Контекст выполнения](lambda-execution-context.md)
   - Слои
   - Версии, альясы и энвайрмент и Canary релизы
   - Контейнеры
