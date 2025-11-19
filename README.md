@@ -36,7 +36,7 @@
     - RIC vs RIE
     - [Пример](lambda-container-example.md)
     - [Типичные ошибки при работе с Лямбдой в Контейнере](labmda-container-mistakes.md)
-  - Лимиты ресурсjв и ограничения лямбды(lambda-limits.md)
+  - [Лимиты ресурсов и ограничения лямбды](lambda-limits.md)
 - Добавление API Gateway  
 - Интеграция с DynamoDB, S3, SNS, SQS
 - Брокеры Сообщений
