@@ -39,10 +39,11 @@
   - [Лимиты ресурсов и ограничения лямбды](lambda-limits.md)
 - API Gateway
   - [Общее описание](api-gateway.md)
-    - API эндпоинты(api-gateway-endpoints.md)    
-  - Поддерживаемые сервисы
-  - Интеграция с Лямбдой
-  - Интеграция с Aws Fargate
+    - [API эндпоинты](api-gateway-endpoints.md)    
+    - Поддерживаемые сервисы
+  - Интеграция
+    - Интеграция с Лямбдой
+    - Интеграция с Aws Fargate
   - Api Gateway vs Load Balancer    
 - Интеграция с DynamoDB, S3, SNS, SQS
 - Брокеры Сообщений
