@@ -41,7 +41,8 @@
   - Общее описание
   - Поддерживаемые сервисы
   - Интеграция с Лямбдой
-  - Интеграция с Aws Fargate    
+  - Интеграция с Aws Fargate
+  - Api Gateway vs Load Balancer    
 - Интеграция с DynamoDB, S3, SNS, SQS
 - Брокеры Сообщений
   - SNS
