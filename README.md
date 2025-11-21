@@ -39,7 +39,7 @@
   - [Лимиты ресурсов и ограничения лямбды](lambda-limits.md)
 - API Gateway
   - [Общее описание](api-gateway.md)
-    - API эндпоинты (api-gateway-endpoints.md)    
+    - API эндпоинты(api-gateway-endpoints.md)    
   - Поддерживаемые сервисы
   - Интеграция с Лямбдой
   - Интеграция с Aws Fargate
