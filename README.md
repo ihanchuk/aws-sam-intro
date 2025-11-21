@@ -43,6 +43,12 @@
     - Поддерживаемые сервисы
   - Интеграция
     - Интеграция с Лямбдой
+      - Типы интеграции
+        - Mock (fake data)
+        - AWS Proxy || Lambda Proxy (All original request & response data transfer)
+        - HHTP_PROXY (when endpoint is NOT a Lambda)
+        - AWS (Lambda get nit real request but template mapping and response to client is transformed)
+        - HTTP (Same as AWS but not for AWS Services! Only for http endpoints. for integration with 3-d party services)
     - Интеграция с Aws Fargate
   - Api Gateway vs Load Balancer    
 - Интеграция с DynamoDB, S3, SNS, SQS
