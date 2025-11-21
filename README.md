@@ -37,7 +37,11 @@
     - [Пример](lambda-container-example.md)
     - [Типичные ошибки при работе с Лямбдой в Контейнере](labmda-container-mistakes.md)
   - [Лимиты ресурсов и ограничения лямбды](lambda-limits.md)
-- Добавление API Gateway  
+- API Gateway
+  - Общее описание
+  - Поддерживаемые сервисы
+  - Интеграция с Лямбдой
+  - Интеграция с Aws Fargate    
 - Интеграция с DynamoDB, S3, SNS, SQS
 - Брокеры Сообщений
   - SNS
