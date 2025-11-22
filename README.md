@@ -4,6 +4,7 @@
 ### Глава 0. AWS короткое интро
 - Регионы, зоны доступностиб эдж локации
 - Cloud Formation
+  - [Структура шаблона](cloud-formation-template-structure.md) 
   - [Пример шаблона](cloud-formation-templatexample.md)
   - [Базовые ресурсы](cloud-fromation-basic-resources.md)
 ### Глава 1. Шаблоны AWS SAM
