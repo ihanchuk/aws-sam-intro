@@ -64,3 +64,33 @@ Resources:
 
 ```
 
+####  Создание S3 - пример близкий к продакшшн
+
+``` Yaml
+AWSTemplateFormatVersion: "2010-09-09"
+
+Description: Simple CF template
+
+Parameters:
+  Environment:
+    Type: String
+
+Mappings:
+  EnvMap:
+    Prod:
+      Suffix: "-prod"
+
+Conditions:
+  IsProd: !Equals [!Ref Environment, "Prod"]
+
+Resources:
+  MyBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: !If [IsProd, !Join ["", ["mybucket", !FindInMap [EnvMap, Prod, Suffix]]], "mybucket"]
+
+Outputs:
+  BucketName:
+    Value: !Ref MyBucket
+
+```
