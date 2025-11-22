@@ -8,7 +8,9 @@
   - [Базовые ресурсы](cloud-fromation-basic-resources.md)
 ### Глава 1. Шаблоны AWS SAM
 - Общая структура шаблона  
-- Параметры, ресурсы и выходные данные  
+- Параметры, ресурсы и выходные данные
+- Serverless ресурсы
+  - [Перечень](serverless-resources.md)   
 - [Встроенные функции CloudFormation](template-funcs.md)
 - Примеры и практические советы  
 
