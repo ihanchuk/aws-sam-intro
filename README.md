@@ -37,8 +37,9 @@
   - [Контекст выполнения](lambda-execution-context.md)
   - Слои
   - Конфигурация
-    - [Provisioned concurency](lambda-provisioned-concurency.md)
-    - [Reserved Cincurency](lambda-reserved-concurency.md)
+    - [Concurency (конкурентность)](concurency.md)
+      - [Provisioned concurency](lambda-provisioned-concurency.md)
+      - [Reserved Cincurency](lambda-reserved-concurency.md)
     - Triggers   
   - Версии, альясы и энвайрмент и Canary релизы
   - Контейнеры
