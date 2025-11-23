@@ -36,6 +36,10 @@
   - [Жизненный цикл](lambda-lifecycle.md)
   - [Контекст выполнения](lambda-execution-context.md)
   - Слои
+  - Конфигурация
+    - [Provisioned concurency](lambda-provisioned-concurency.md)
+    - [Reserved Cincurency](lambda-reserved-concurency.md)
+    - Triggers   
   - Версии, альясы и энвайрмент и Canary релизы
   - Контейнеры
     - Cold vs Worm start
