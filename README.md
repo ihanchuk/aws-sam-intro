@@ -39,7 +39,7 @@
   - Конфигурация
     - [Concurency (конкурентность)](concurency.md)
       - [Provisioned concurency](lambda-provisioned-concurency.md)
-      - [Reserved Cincurency](lambda-reserved-concurency.md)
+      - [Reserved Concurency](lambda-reserved-concurency.md)
     - Triggers   
   - Версии, альясы и энвайрмент и Canary релизы
   - Контейнеры
