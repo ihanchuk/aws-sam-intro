@@ -55,6 +55,7 @@
     - Поддерживаемые сервисы
   - Интеграция
     - Интеграция с Лямбдой
+      - [Lambda Proxy Integration] (lambda-proxy-integration.md) 
       - Типы интеграции
         - Mock (fake data)
         - AWS Proxy || Lambda Proxy (All original request & response data transfer)
