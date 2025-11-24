@@ -31,7 +31,7 @@
 - Как работает `Transform: AWS::Serverless-2016-10-31`
 
 ### Глава 5. Работа с ресурсами
-- Определение Lambda-функций
+- [Определение Lambda-функций](lambda-definition.md)
   - Общие принципы работ Лямбд
   - [Жизненный цикл](lambda-lifecycle.md)
   - [Контекст выполнения](lambda-execution-context.md)
