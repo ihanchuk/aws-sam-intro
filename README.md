@@ -63,6 +63,9 @@
         - AWS (Lambda get nit real request but template mapping and response to client is transformed)
         - HTTP (Same as AWS but not for AWS Services! Only for http endpoints. for integration with 3-d party services)
     - Интеграция с Aws Fargate
+    - CORS
+    - Open API
+    - Auth
   - Api Gateway vs Load Balancer    
 - Интеграция с DynamoDB, S3, SNS, SQS
 - Брокеры Сообщений
