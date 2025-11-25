@@ -35,7 +35,7 @@
   - Общие принципы работ Лямбд
   - [Жизненный цикл](lambda-lifecycle.md)
   - [Контекст выполнения](lambda-execution-context.md)
-  - Слои
+  - [Слои ***](lambda-layers.md)
   - Конфигурация
     - [Concurency (конкурентность)](concurency.md)
       - [Provisioned concurency](lambda-provisioned-concurency.md)
