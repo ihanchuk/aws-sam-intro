@@ -67,6 +67,9 @@
     - CORS
     - Open API
     - Auth
+      - Lambda Authorizer
+      - Cognito
+    - Api Keys  
   - Api Gateway vs Load Balancer    
 - Интеграция с DynamoDB, S3, SNS, SQS
 - Брокеры Сообщений
