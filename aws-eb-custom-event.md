@@ -1,4 +1,4 @@
-```
+```JS
 import { EventBridgeClient, PutEventsCommand } from "@aws-sdk/client-eventbridge";
 
 // Создаём клиента
