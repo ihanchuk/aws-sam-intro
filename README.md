@@ -13,7 +13,8 @@
 - Serverless ресурсы
   - [Перечень](serverless-resources.md)   
 - [Встроенные функции CloudFormation](template-funcs.md)
-- Примеры и практические советы  
+- Примеры и практические советы
+  - [Lambda+API](example-lambda-plus-api.md) 
 
 ### Глава 2. Введение в Serverless
 - Что такое Serverless и зачем он нужен  
