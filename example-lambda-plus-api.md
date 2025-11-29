@@ -1,3 +1,4 @@
+```yml
 AWSTemplateFormatVersion: '2010-09-09'
 Transform: AWS::Serverless-2016-10-31
 Description: Минимальный SAM-пример — Lambda + API
@@ -25,3 +26,4 @@ Outputs:
   ApiEndpoint:
     Description: "HTTP API endpoint"
     Value: !Sub "https://${ServerlessHttpApi}.execute-api.${AWS::Region}.amazonaws.com"
+```
