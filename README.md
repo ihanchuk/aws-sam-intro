@@ -53,6 +53,7 @@
     - [Типичные ошибки при работе с Лямбдой в Контейнере](labmda-container-mistakes.md)
   - [Лимиты ресурсов и ограничения лямбды](lambda-limits.md)
   - [Авторизация доступа посредством Лямбды](lambda-auth.md)
+  - [Extensions !!!](lambda-extensions,md)
 - API Gateway
   - [Общее описание](api-gateway.md)
     - [API эндпоинты](api-gateway-endpoints.md)    
